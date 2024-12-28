@@ -1,0 +1,14 @@
+# 5+2==7 soma
+# 5-2==3 subtração
+# 5*2==10 multiplicação
+# 5/2==2.5 divisão
+# 5**2==25 exponenciação
+# 5//2==2 divisão inteira
+# 5%2==1 resto de divisão
+print(int(5+2))
+print(int(5-2))
+print(int(5*2))
+print(int(5/2))
+print(int(5**2))
+print(int(5//2))
+print(int(5%2))
