@@ -1,0 +1,12 @@
+frase='Rosa é gostosa, mais burra'
+print(frase)
+print(frase[3])
+print(frase[3:12])
+print(frase[:13])
+print(frase[3:])
+print(frase[1:15:2])
+print(frase[3::20])
+print(frase[::3])
+print("""Britney Jean Spears é uma cantora, compositora, dançarina e atriz americana. Ela iniciou sua carreira como atriz mirim no programa infantil The All-New Mickey Mouse Club e na adolescência se tornou notavelmente conhecida mundialmente com o lançamento dos seus dois primeiros álbuns, ...Baby One More Time...""")
+print(frase.count('a'))
+print(len(frase))
